@@ -15,7 +15,7 @@ The proposed method, RARL-HIL, trains a protagonist HVAC controller together wit
 ```text
 .
 ├── models/
-│   └── Model definitions and supporting files
+│   └── RL model definitions and supporting files
 │
 ├── saved_models/
 │   └── Trained model weights
