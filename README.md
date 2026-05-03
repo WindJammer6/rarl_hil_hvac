@@ -24,7 +24,7 @@ The proposed method, RARL-HIL, trains a protagonist HVAC controller together wit
 │   └── Trains the RARL-HIL protagonist and adversary agents
 │
 ├── rl_baselines_training_main.ipynb
-│   └── Trains standard RL baselines: DQN, PPO, and SAC
+│   └── Trains standard RL baselines without unreliable feedback: DQN, PPO, and SAC
 │
 ├── testing_rarl_vs_rl_baselines_with_adversarial.ipynb
 │   └── Evaluates trained models under adversarial feedback
